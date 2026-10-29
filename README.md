@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Carl Hovan (Rooach) 👋
 
-<!--
-**RooRooach/RooRooach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Computer Applications student at MSU-IIT.
 
-Here are some ideas to get you started:
+## About me
+4th-year BS Computer Applications student at MSU-IIT.
+I love working with hardware
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+Implementing FreeRTOS in embedded designs using the RT-Spark board
+
+## Tech & tools
+C/C++, FreeRTOS, KiCAD, PlatformIO, MATLAB, Git and GitHub
+
+## Let's connect
+GitHub: [@RooRooach](https://github.com/RooRooach)
